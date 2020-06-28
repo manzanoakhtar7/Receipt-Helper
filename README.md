@@ -1,1 +1,1 @@
-# Receipt-Helper
+# Receipt Helper
